@@ -1,5 +1,7 @@
 hotfix branch changes
 
+New feature branch file
+
 New sample file
 
 3rd commit
