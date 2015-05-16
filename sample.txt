@@ -1,3 +1,5 @@
+hotfix branch changes
+
 New sample file
 
 3rd commit
