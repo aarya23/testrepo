@@ -1,3 +1,5 @@
+Brand new feature
+
 hotfix branch changes
 
 New feature branch file
