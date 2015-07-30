@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Second remote change
 
 Remote change
 =======
 Brand new feature
 >>>>>>> Brand new feature in new branch
+=======
+Brand new feature
+>>>>>>> 9399076d34257a663a0f3bcdfb2115a8d08723e5
 
 hotfix branch changes
 
